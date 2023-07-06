@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddCoupons/AddCoupons.iml" filepath="$PROJECT_DIR$/AddCoupons/AddCoupons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DealService/DealService.iml" filepath="$PROJECT_DIR$/DealService/DealService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proj zip/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/../proj zip/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GatewayAPI/GatewayAPI.iml" filepath="$PROJECT_DIR$/GatewayAPI/GatewayAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Main.iml" filepath="$PROJECT_DIR$/.idea/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCoupons/MyCoupons.iml" filepath="$PROJECT_DIR$/MyCoupons/MyCoupons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductDealService/ProductDealService.iml" filepath="$PROJECT_DIR$/ProductDealService/ProductDealService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/UserService.iml" filepath="$PROJECT_DIR$/UserService/UserService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewService/ViewService.iml" filepath="$PROJECT_DIR$/ViewService/ViewService.iml" />
+    </modules>
+  </component>
+</project>

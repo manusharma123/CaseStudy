@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AddCoupons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AddCoupons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DealService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DealService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayAPI/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GatewayAPI/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyCoupons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyCoupons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductDealService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProductDealService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UserService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ViewService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ViewService/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

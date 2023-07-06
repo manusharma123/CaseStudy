@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EurekaServer" />
+        <module name="ProductDealService" />
+        <module name="UserService" />
+        <module name="MyCoupons" />
+        <module name="AddCoupons" />
+        <module name="ViewService" />
+        <module name="DealService" />
+        <module name="GatewayAPI" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AddCoupons" target="17" />
+      <module name="DealService" target="17" />
+      <module name="EurekaServer" target="17" />
+      <module name="GatewayAPI" target="17" />
+      <module name="MyCoupons" target="17" />
+      <module name="ProductDealService" target="17" />
+      <module name="UserService" target="17" />
+      <module name="ViewService" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AddCoupons" options="-parameters" />
+      <module name="DealService" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="GatewayAPI" options="-parameters" />
+      <module name="MyCoupons" options="-parameters" />
+      <module name="ProductDealService" options="-parameters" />
+      <module name="UserService" options="-parameters" />
+      <module name="ViewService" options="-parameters" />
+    </option>
+  </component>
+</project>

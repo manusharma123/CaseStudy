@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/AddCoupons/pom.xml" />
+        <option value="$PROJECT_DIR$/UserService/pom.xml" />
+        <option value="$PROJECT_DIR$/../proj zip/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ViewService/pom.xml" />
+        <option value="$PROJECT_DIR$/MyCoupons/pom.xml" />
+        <option value="$PROJECT_DIR$/DealService/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductDealService/pom.xml" />
+        <option value="$PROJECT_DIR$/GatewayAPI/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+</project>
